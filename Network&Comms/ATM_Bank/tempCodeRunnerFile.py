@@ -1,0 +1,1 @@
+print("[server]Account balance modified for :",acc_number[pin],"\n[server]Amount deposited : ",deposite,"\n[server]Balance : ",acc_balance[pin])
